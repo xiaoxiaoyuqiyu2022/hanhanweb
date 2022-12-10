@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff6f21;
+  background: #0d34f6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2440,7 +2440,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("https://i.postimg.cc/MHrK1W4p/OIP-C.jpg");
+  background: url("https://i.postimg.cc/mZPWWwgy/3cZ5Q0.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
